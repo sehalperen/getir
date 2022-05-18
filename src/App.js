@@ -16,8 +16,8 @@ function App() {
     <Categories/>
     <Campaigns/>
     <div className="container mx-auto">
-      <Cards/>
       <Favorites/>
+      <Cards/>
       <MobileApp/>
     </div>
 
