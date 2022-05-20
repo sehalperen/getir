@@ -26,6 +26,11 @@
 }
 
 
+.ReactCollapse--collapse {
+  @apply transition-all
+}
+
+
 
 
 
